@@ -1,2 +1,2 @@
 # Rel-GFA
-Reliability analysis of large-scale GF IoT Networks
+Network cost, durability, and reliability analysis of large-scale GF IoT Networks.
